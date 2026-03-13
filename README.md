@@ -2,11 +2,11 @@
 # FinWise AI - Proactive Wealth Advisor
 
 ## Team Members
-* Hong Jun Yang- Product Lead, UI designer
-* Ho Pei Yi - UI designer
-* Lee Rou - UI designer
-* Liew Yi Xing - UI designer
-* Yee Jue Ren - UI designer
+* Hong Jun Yang- Product Lead, UI/UX designer
+* Ho Pei Yi - UI/UX designer
+* Lee Rou - UI/UX designer
+* Liew Yi Xing - UI/UX designer
+* Yee Jue Ren - UI/UX designer
 
 ## Project Summary
 
