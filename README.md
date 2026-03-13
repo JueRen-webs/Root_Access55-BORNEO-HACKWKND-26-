@@ -4,8 +4,8 @@
 ## Team Members
 * Hong Jun Yang- Product Lead, UI/UX designer
 * Ho Pei Yi - UI/UX designer
-* Lee Rou - UI/UX designer
 * Liew Yi Xing - UI/UX designer
+* Lee Rou - UI/UX designer
 * Yee Jue Ren - UI/UX designer
 
 ## Project Summary
